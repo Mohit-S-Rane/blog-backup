@@ -1,4 +1,4 @@
-# Containers Demystified: What Is Docker & Why Use It?
+# Containers Demystified: What Is Docker & Why Use It? ->
 
 Ever wondered how companies like Netflix, Spotify, and even NASA deploy their applications seamlessly across different environments? 🚀 The secret sauce often involves **containers**, and at the heart of this technology is **Docker**.
 
