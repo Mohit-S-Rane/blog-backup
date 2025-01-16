@@ -1,0 +1,21 @@
+{
+  "name": "blog-backup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is my blog backup directory. It contains all the posts and images.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
