@@ -1,4 +1,4 @@
-# 🧠 Challenge 1: Build Your Own Tokenizer from Scratch (Hindi & English)
+# 🧠 Challenge 1: Build Your Own Tokenizer from Scratch
 
 Have you ever tried teaching a machine to “read” Hindi or English? If so, you’ve probably realized it’s not as simple as splitting text at spaces. Welcome to the world of **tokenization**—the very first, yet incredibly powerful step in building intelligent language models.
 
